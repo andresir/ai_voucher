@@ -1,7 +1,7 @@
 module.exports = {
   HOST: "localhost",
   USER: "root",
-  PASSWORD: "arzaqi212",
+  PASSWORD: "",
   DB: "aichat_voucher",
   dialect: "mysql",
   pool: {
