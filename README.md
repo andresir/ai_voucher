@@ -13,7 +13,7 @@ https://github.com/andresir/ai_voucher/blob/main/Documentation%20API%20and%20App
     - Endpoint: /api/campaign/checking
 
 2.	Validate photo submission:
-    - Endpoint: /api/campaign/checking
+    - Endpoint: /api/campaign/validate-profile
 
 3.	API for create customer:
     - Endpoint: /api/customer/add
