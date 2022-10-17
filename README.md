@@ -3,7 +3,7 @@
 ## API Documentation:
 
 ## Documentation on PDF:
-https://github.com/andresir/ai_voucher/blob/main/Documentation%20API%20and%20Application.pdf
+https://github.com/andresir/ai_voucher/blob/main/Documentation_API_and_Application.pdf
 
 ## Usage steps:
 1.	Hit query sql for generate Database
