@@ -2,6 +2,9 @@
 
 ## API Documentation:
 
+## Documentation on PDF:
+https://github.com/andresir/ai_voucher/blob/main/Documentation%20API%20and%20Application.pdf
+
 ### Running or port: 8080
 ### Base URL: localhost:8080
 
